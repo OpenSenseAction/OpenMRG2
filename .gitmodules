@@ -1,15 +1,12 @@
 [submodule "mergeplg"]
 	path = mergeplg
-	url = https://github.com/OpenSenseAction/mergeplg
+	url = https://github.com/eoydvin/mergeplg
 [submodule "poligrain"]
 	path = poligrain
 	url = https://github.com/OpenSenseAction/poligrain
 [submodule "pycomlink"]
 	path = pycomlink
 	url = https://github.com/pycomlink/pycomlink
-[submodule "OPENSENSE_sandbox"]
-	path = OPENSENSE_sandbox
-	url = https://github.com/OpenSenseAction/OPENSENSE_sandbox
 [submodule "pypwsqc"]
 	path = pypwsqc
 	url = https://github.com/OpenSenseAction/pypwsqc.git
